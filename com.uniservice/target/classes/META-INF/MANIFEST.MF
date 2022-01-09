@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kp
+Build-Jdk: 17.0.1
+Implementation-Title: UniService
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.telia
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/com.uniservice
+Created-By: Maven Integration for Eclipse
+
